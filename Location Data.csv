@@ -1,0 +1,102 @@
+@id,@lat,@lon,amenity,tourism,name,operator,opening_hours,cuisine,website,addr:housenumber,addr:street
+643356949,39.7657707,-86.1579036,restaurant,,Hard Rock Cafe,,,american,,,
+2876183191,39.7697479,-86.1582523,cafe,,Starbucks,,,coffee_shop,,,
+3147765431,39.7701591,-86.1541599,restaurant,,India Garden Restaurant,,,indian,,209,North Delaware Street
+3147804929,39.769981,-86.154176,restaurant,,Barcelona Tapas Restaurant,,,,,,
+3172291061,39.773799,-86.155851,cafe,,City Cafe,,,american,,443,North Pennsylvania Street
+3225275261,39.766873,-86.15759,restaurant,,Buffalo Wild Wings,,,wings,,,
+3414436965,39.7732367,-86.1519002,cafe,,Starbucks,,,coffee_shop,,,
+3414436966,39.7732884,-86.152097,restaurant,,Bru Burger Bar,,,burger,,,
+3462341163,39.7717329,-86.1539807,restaurant,,The Eagle,,Su-Th 11:00-24:00; Fr-Sa 11:00-03:00,fried_chicken;southern,,310,Massachusetts Avenue
+3462341164,39.771587,-86.1535566,restaurant,,Bazbeaux,,,pizza,,,
+3472080203,39.7725686,-86.1594085,restaurant,,Acapulco Joe's,,,mexican,http://www.acapulco-joes.com/home,365,North Illinois Street
+3473467924,39.7696105,-86.153605,restaurant,,Bangkok Restaurant & Jazz Bar,,,thai,,,
+3481906393,39.76831,-86.157168,cafe,,Starbucks,,,coffee_shop,,,
+3577634193,39.773132,-86.151402,ice_cream,,Sub Zero,,,,,427,Massachusetts Avenue
+3577643493,39.773574,-86.151361,cafe,,Hoaglin To Go,,,,,448,Massachusetts Avenue
+3600923162,39.7667991,-86.1593506,restaurant,,Champps,,,,,,
+3605591495,39.766831,-86.156529,restaurant,,Morton's The Steakhouse,,,steak_house,,,
+3613168293,39.773786,-86.150017,restaurant,,The Rathskeller,,,german,,,
+3637475894,39.7683467,-86.1569218,restaurant,,Giorgio's Pizza,,,pizza,,,
+3637477094,39.7683478,-86.1570357,restaurant,,Soupremacy,,,soup,,,
+3637502093,39.7688,-86.156007,cafe,,Cups Coffee,,,,,,
+3799605264,39.763802,-86.1598,cafe,,Starbucks,,,coffee_shop,,,
+5218917822,39.7737015,-86.1503394,cafe,,Coat Check Coffee,,,,,401,East Michigan Street
+6326693785,39.7661529,-86.1549683,restaurant,,Subito,,,,,44,
+6479327186,39.7668318,-86.1556962,restaurant,,Fogo de Chao,,,,,,
+6479327285,39.7648797,-86.159713,restaurant,,St. Elmo Steak House,,,,,,
+6990546392,39.7684222,-86.1603899,restaurant,,Ali Baba,,,,,,
+7261887386,39.771373,-86.1522839,cafe,,Commissary Barber & Barista,,Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00,,,304,
+7261887486,39.7666984,-86.1579204,cafe,,Hubbard & Cravens Coffee and Tea,,Mo-Fr 06:00-18:00,,,,
+7261911885,39.7641072,-86.1588699,cafe,,Georgia Street Grind,,Mo-Fr 07:30-17:00,,,1001 #101,West Georgia Street
+7261911886,39.7639126,-86.1615564,cafe,,Bee Coffee Roasters,,,,,201 #110,
+7261925785,39.7759344,-86.1550361,restaurant,,Saffron Cafe,,"Tu-Fr 11:30-14:00, 17:00-21:00; Sa 16:00-22:00; Su 16:00-21:00",,,621,Fort Wayne Avenue
+7261946385,39.7669316,-86.1619915,restaurant,,Cafe Patachou,,Mo-Fr 07:00-15:00; Sa-Su 08:00-15:00,,,225,West Washington Street
+9035735531,39.774476,-86.1501678,ice_cream,,Kilwins,,,chocolate;ice_cream;popcorn,,,
+9035735533,39.7746276,-86.1499176,restaurant,,LouVino Indianapolis Mass Ave Restaurant & Wine Bar,,,,,,
+9035735538,39.7740965,-86.1501208,restaurant,,Salt on Mass,,,seafood,,,
+9035735539,39.7744714,-86.1495749,restaurant,,Goodfellas Mass Ave,,,pizza,,,
+9035735553,39.7740728,-86.14963,restaurant,,Fat Dan's Deli,,,,,,
+9853805679,39.7685738,-86.1533281,restaurant,,The Pantry,,,american,,222,East Market Street
+9853805680,39.7685799,-86.1536017,restaurant,,Maxine's Chicken & Waffles,,,american,,222,East Market Street
+9853805681,39.7686603,-86.1536017,restaurant,,Mambo's Cheesesteak Grill,,,sandwich,http://mamboscheesesteakgrill.com/,222,East Market Street
+9853805682,39.7687325,-86.153599,restaurant,,Mauricio's Pizzeria,,,pizza,http://mauriciospizzeria.com/,222,East Market Street
+9853805683,39.7686542,-86.1533281,restaurant,,Ameer Middle Eastern Cuisine,,,international,,222,East Market Street
+9853805684,39.7687243,-86.1533254,restaurant,,Tapatia Mexican Grill,,,mexican,,222,East Market Street
+9853805686,39.7689139,-86.1534113,cafe,,Cath Coffee and Tea House,,,coffee_shop,,222,East Market Street
+9853805687,39.7689552,-86.1533174,restaurant,,IL Panino by Cafe Olivia,,,sandwich,,222,East Market Street
+9853805688,39.7689758,-86.1534917,restaurant,,Prox Salads,,,american,,222,East Market Street
+9855989086,39.7679686,-86.1546251,restaurant,,Subito Soups,,Mo-Fr 10:00-15:00,,https://www.subitosoups.com/,34,North Delaware Street
+9855989088,39.7678384,-86.1582541,restaurant,,Green District Salads,,,american,http://gdsalads.com/,28,Monument Circle
+9855989089,39.7682114,-86.1511975,restaurant,,Public Greens Urban Kitchen,,,,https://www.publicgreensurbankitchen.com/,301,East Market Street
+9900509143,39.7665575,-86.1609056,cafe,,Starbucks,,,coffee_shop,,1,South Capitol Avenue
+9900509144,39.7667169,-86.1612003,restaurant,,The Eagle's Nest,,Mo-Su 017:00-22:00,american,https://www.hyatt.com/en-US/hotel/indiana/hyatt-regency-indianapolis/indri/dining,1,South Capitol Avenue
+9931965105,39.7665929,-86.1636939,restaurant,,Ten Hands Social Bar & Eatery,,,american,https://www.marriott.com/en-us/hotels/indwi-the-westin-indianapolis/dining/,241,West Washington Street
+339000060,39.7695519,-86.1546192,restaurant,,China King,,,chinese,,148,North Delaware Street
+340194676,39.7744255,-86.1629643,cafe,,Mo'Joe Coffeehouse,,Su 08:00-20:00; Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00,coffee_shop,http://www.mojoecoffeehouse.com/,222,West Michigan Street
+340480893,39.7640008,-86.1587259,restaurant,,The Spaghetti Factory,,,italian,,200,South Meridian Street
+848665199,39.7629716,-86.1550329,restaurant,,TaxMan CityWay,,,,,310,South Delaware Street
+942939309,39.7759278,-86.154984,restaurant,,,,,,,,
+6836639770,39.7722099,-86.1526036,bicycle_rental,,Indiana Pacers Bikeshare,,,,,,
+278552890,39.7674202,-86.1648963,bicycle_rental,,Indiana Government Center,,,,,,
+278552892,39.7660848,-86.1622826,bicycle_rental,,Convention Center - Maryland and Capital,,,,,,
+278552893,39.7642027,-86.1615136,bicycle_rental,,Convention Center at Georgia Street,,,,,,
+278552895,39.7669723,-86.1602672,bicycle_rental,,Washington and Illinois,,,,,,
+278552897,39.7672055,-86.1583477,bicycle_rental,,Washington and Meridian,,,,,,
+278552898,39.768838,-86.1573698,bicycle_rental,,Monument Circle,,,,,,
+278552900,39.7672055,-86.1543324,bicycle_rental,,City County Building,,,,,,
+282435268,39.7741369,-86.163547,bicycle_rental,,Michigan and Senate,,,,,,
+282435269,39.7767762,-86.1611219,bicycle_rental,,Glick Peace Walk,,,,,,
+282435272,39.7686337,-86.1528367,bicycle_rental,,City Market,,,,,,
+282435273,39.7721858,-86.1526083,bicycle_rental,,Mass Ave. and Alabama,,,,,,
+282435274,39.7758497,-86.1521785,bicycle_rental,,North and Alabama,,,,,,
+282435275,39.7738233,-86.1504042,bicycle_rental,,Athenaeum,,,,,,
+340480895,39.7659457,-86.1668074,bicycle_rental,,Victory Field,,,,,,
+694170932,39.7736756,-86.1611167,bicycle_rental,,Gibson Building,,,,,,
+1283229594,39.7770659,-86.1646946,,attraction,USS Indianapolis National Memorial,,,,,,
+1283229759,39.7719906,-86.15699,fountain,attraction,Depew Memorial Fountain,,,,,,
+1289479681,39.7747971,-86.1568856,,attraction,The Obelisk,,,,,,
+2296607835,39.7726532,-86.1635095,library,attraction,Kurt Vonnegut Memorial Library,,,,,,
+4793931283,39.7669948,-86.1799672,,attraction,Brown Bear,,,,,,
+4793931284,39.7672134,-86.1797057,,attraction,Bald Eagle,,,,,,
+4793931285,39.7678525,-86.1778858,,attraction,Walrus,,,,,,
+4793931286,39.7673288,-86.1769148,,attraction,Seal & Sea Lion,,,,,,
+4793931287,39.7670108,-86.1785952,,attraction,Amur Tiger,,,,,,
+4793931288,39.7671902,-86.178724,,attraction,Red Panda,,,,,,
+4793931289,39.7670314,-86.1789707,,attraction,Gibbon,,,,,,
+4793931290,39.767652,-86.1790593,,attraction,Ring-Tailed Lemur,,,,,,
+4988783387,39.7825501,-86.1703295,,museum,Crispus Attucks Museum,,,,,1140,Dr Martin Luther King Jr Street
+9035735603,39.7773119,-86.1460716,,museum,Indianapolis Fire Fighters Museum,,,,,,
+113050080,39.7683056,-86.1712974,,museum,NCAA Hall of Champions,,,,,,
+113050097,39.7685493,-86.1677967,,museum,Eiteljorg Museum,Eiteljorg Museum,Mo-Sa 10:00-17:00; Su 12:00-17:00; Dec 25 off; Jan 01 off; Nov Th[4] off,,http://www.eiteljorg.org/,500,West Washington Street
+113748625,39.7747943,-86.1568984,fountain,attraction,,,,,,,
+113879534,39.7670582,-86.180077,,zoo,Indianapolis Zoo,,,,,1200,West Washington Street
+339570769,39.7701978,-86.1529535,,museum,The Hall,,,,,202,North Alabama Street
+339773760,39.7685289,-86.1580302,,attraction,Soldiers and Sailors Monument,,,,,1,Monument Circle
+340008420,39.7705223,-86.166044,,museum,Indiana Historical Society,,,,,450,West Ohio Street
+395057889,39.7841047,-86.1544207,,attraction,Benjamin Harrison Presidential Site,,,,https://bhpsite.org/,1230,N Delaware St
+486840358,39.7674552,-86.1812077,,attraction,Flamingos,,,,,,
+486843821,39.7670055,-86.1804643,,attraction,Arena,,,,,,
+6268982,39.7688945,-86.1698831,,museum,Indiana State Museum,,,,,650,W Washington St
+7976809,39.7746391,-86.156909,,attraction,Indiana World War Memorial Plaza,,,,,,
+113047379,39.7647255,-86.168636,,,Victory Field,,,,,,
