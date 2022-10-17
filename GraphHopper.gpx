@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 51dc8ab538597d91c9a61e1e2b27720a07f2f9f6" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2022-10-17T15:27:55Z</time></metadata>
+<wpt lat="39.765914" lon="-86.166856"> <name>continue</name></wpt>
+<wpt lat="39.768053" lon="-86.16778"> <name>waypoint 1</name></wpt>
+<wpt lat="39.767028" lon="-86.161986"> <name>waypoint 2</name></wpt>
+<wpt lat="39.76669" lon="-86.179981"> <name>waypoint 3</name></wpt>
+<wpt lat="39.764886" lon="-86.15999"> <name>waypoint 4</name></wpt>
+<wpt lat="39.765307" lon="-86.169462"> <name>arrive at destination</name></wpt>
+<rte>
+<rtept lat="39.765914" lon="-86.166856"><extensions><gh:distance>5.1</gh:distance><gh:time>4622</gh:time><gh:direction>NW</gh:direction><gh:azimuth>292.87</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="39.765932" lon="-86.166912"><extensions><gh:distance>11.1</gh:distance><gh:time>9946</gh:time><gh:direction>W</gh:direction><gh:azimuth>271.67</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="39.765935" lon="-86.167041"><desc>turn right onto South West Street</desc><extensions><gh:distance>166.0</gh:distance><gh:time>38952</gh:time><gh:direction>N</gh:direction><gh:azimuth>1.91</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.767427" lon="-86.166976"><desc>turn left onto Indianapolis Cultural Trail</desc><extensions><gh:distance>63.9</gh:distance><gh:time>24172</gh:time><gh:direction>W</gh:direction><gh:azimuth>270.53</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767451" lon="-86.167722"><desc>turn right onto North Alig Street</desc><extensions><gh:distance>67.1</gh:distance><gh:time>60354</gh:time><gh:direction>N</gh:direction><gh:azimuth>355.73</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.768053" lon="-86.16778"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="39.768053" lon="-86.16778"><desc>make a U-turn onto North Alig Street</desc><extensions><gh:distance>67.1</gh:distance><gh:time>60354</gh:time><gh:direction>S</gh:direction><gh:azimuth>175.73</gh:azimuth><gh:sign>-98</gh:sign></extensions></rtept>
+<rtept lat="39.767451" lon="-86.167722"><desc>turn left onto Indianapolis Cultural Trail</desc><extensions><gh:distance>149.7</gh:distance><gh:time>39399</gh:time><gh:direction>E</gh:direction><gh:azimuth>93.6</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767409" lon="-86.165974"><desc>keep right onto Indianapolis Cultural Trail</desc><extensions><gh:distance>378.5</gh:distance><gh:time>118471</gh:time><gh:direction>E</gh:direction><gh:azimuth>110.79</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="39.767024" lon="-86.161847"><extensions><gh:distance>12.0</gh:distance><gh:time>10806</gh:time><gh:direction>W</gh:direction><gh:azimuth>272.14</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.767028" lon="-86.161986"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="39.767028" lon="-86.161986"><extensions><gh:distance>12.0</gh:distance><gh:time>10806</gh:time><gh:direction>E</gh:direction><gh:azimuth>92.14</gh:azimuth><gh:sign>-98</gh:sign></extensions></rtept>
+<rtept lat="39.767024" lon="-86.161847"><desc>turn left onto Indianapolis Cultural Trail</desc><extensions><gh:distance>741.1</gh:distance><gh:time>208785</gh:time><gh:direction>N</gh:direction><gh:azimuth>0.97</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767627" lon="-86.170172"><extensions><gh:distance>140.1</gh:distance><gh:time>46479</gh:time><gh:direction>W</gh:direction><gh:azimuth>281.27</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="39.767873" lon="-86.171778"><extensions><gh:distance>58.1</gh:distance><gh:time>20900</gh:time><gh:direction>W</gh:direction><gh:azimuth>281.16</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="39.767974" lon="-86.172445"><extensions><gh:distance>375.7</gh:distance><gh:time>172014</gh:time><gh:direction>S</gh:direction><gh:azimuth>191.58</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767544" lon="-86.176337"><desc>turn sharp left onto White River Wapahani Trail</desc><extensions><gh:distance>23.9</gh:distance><gh:time>4781</gh:time><gh:direction>SE</gh:direction><gh:azimuth>147.3</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="39.767363" lon="-86.176186"><extensions><gh:distance>138.9</gh:distance><gh:time>125055</gh:time><gh:direction>SW</gh:direction><gh:azimuth>237.12</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.766594" lon="-86.176936"><extensions><gh:distance>3.4</gh:distance><gh:time>2052</gh:time><gh:direction>N</gh:direction><gh:azimuth>0.0</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.766625" lon="-86.176936"><extensions><gh:distance>63.6</gh:distance><gh:time>114568</gh:time><gh:direction>W</gh:direction><gh:azimuth>269.65</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.766594" lon="-86.17767"><extensions><gh:distance>197.9</gh:distance><gh:time>178095</gh:time><gh:direction>W</gh:direction><gh:azimuth>282.35</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="39.76669" lon="-86.179981"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="39.76669" lon="-86.179981"><extensions><gh:distance>197.9</gh:distance><gh:time>178095</gh:time><gh:direction>E</gh:direction><gh:azimuth>92.79</gh:azimuth><gh:sign>-98</gh:sign></extensions></rtept>
+<rtept lat="39.766594" lon="-86.17767"><extensions><gh:distance>63.6</gh:distance><gh:time>57284</gh:time><gh:direction>NE</gh:direction><gh:azimuth>59.89</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="39.766625" lon="-86.176936"><extensions><gh:distance>3.4</gh:distance><gh:time>6156</gh:time><gh:direction>S</gh:direction><gh:azimuth>180.0</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.766594" lon="-86.176936"><extensions><gh:distance>138.9</gh:distance><gh:time>148116</gh:time><gh:direction>E</gh:direction><gh:azimuth>89.42</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767363" lon="-86.176186"><desc>continue onto Old Washington Street Bridge</desc><extensions><gh:distance>282.7</gh:distance><gh:time>57014</gh:time><gh:direction>NE</gh:direction><gh:azimuth>67.06</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="39.767365" lon="-86.17289"><desc>turn sharp left onto White River Wapahani Trail</desc><extensions><gh:distance>18.1</gh:distance><gh:time>3617</gh:time><gh:direction>NW</gh:direction><gh:azimuth>331.38</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="39.767506" lon="-86.172991"><desc>turn sharp right onto Old Washington Street Bridge</desc><extensions><gh:distance>89.6</gh:distance><gh:time>47213</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.62</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="39.767974" lon="-86.172445"><extensions><gh:distance>198.1</gh:distance><gh:time>92323</gh:time><gh:direction>E</gh:direction><gh:azimuth>101.24</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.767627" lon="-86.170172"><desc>keep right onto Indianapolis Cultural Trail</desc><extensions><gh:distance>86.4</gh:distance><gh:time>31121</gh:time><gh:direction>E</gh:direction><gh:azimuth>101.57</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="39.767471" lon="-86.169181"><desc>keep right onto Indianapolis Cultural Trail</desc><extensions><gh:distance>276.2</gh:distance><gh:time>85047</gh:time><gh:direction>SE</gh:direction><gh:azimuth>112.86</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="39.767409" lon="-86.165974"><desc>keep right onto Indianapolis Cultural Trail</desc><extensions><gh:distance>363.2</gh:distance><gh:time>119948</gh:time><gh:direction>E</gh:direction><gh:azimuth>110.79</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="39.767236" lon="-86.161744"><desc>turn right onto North Capitol Avenue</desc><extensions><gh:distance>330.5</gh:distance><gh:time>69371</gh:time><gh:direction>S</gh:direction><gh:azimuth>176.42</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.764266" lon="-86.161813"><desc>turn left onto West Georgia Street</desc><extensions><gh:distance>153.8</gh:distance><gh:time>69217</gh:time><gh:direction>E</gh:direction><gh:azimuth>91.65</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.764226" lon="-86.160014"><desc>turn left onto South Illinois Street</desc><extensions><gh:distance>73.4</gh:distance><gh:time>18883</gh:time><gh:direction>N</gh:direction><gh:azimuth>1.58</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.764886" lon="-86.15999"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="39.764886" lon="-86.15999"><desc>continue onto South Illinois Street</desc><extensions><gh:distance>260.2</gh:distance><gh:time>150005</gh:time><gh:direction>N</gh:direction><gh:azimuth>1.61</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="39.767217" lon="-86.159905"><desc>turn left onto Indianapolis Cultural Trail</desc><extensions><gh:distance>798.0</gh:distance><gh:time>211313</gh:time><gh:direction>W</gh:direction><gh:azimuth>270.72</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.767471" lon="-86.169181"><desc>turn left onto Washington Avenue</desc><extensions><gh:distance>201.3</gh:distance><gh:time>41895</gh:time><gh:direction>SW</gh:direction><gh:azimuth>245.14</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.766019" lon="-86.170509"><desc>turn left onto Schumacher Way</desc><extensions><gh:distance>76.2</gh:distance><gh:time>15961</gh:time><gh:direction>E</gh:direction><gh:azimuth>112.09</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.765554" lon="-86.169891"><desc>turn left onto West Maryland Street</desc><extensions><gh:distance>12.3</gh:distance><gh:time>3702</gh:time><gh:direction>NE</gh:direction><gh:azimuth>53.86</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.765619" lon="-86.169774"><extensions><gh:distance>12.7</gh:distance><gh:time>11446</gh:time><gh:direction>SE</gh:direction><gh:azimuth>157.24</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="39.765525" lon="-86.169703"><extensions><gh:distance>7.5</gh:distance><gh:time>6758</gh:time><gh:direction>S</gh:direction><gh:azimuth>194.65</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="39.765459" lon="-86.169725"><extensions><gh:distance>21.1</gh:distance><gh:time>19014</gh:time><gh:direction>SE</gh:direction><gh:azimuth>152.88</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="39.76529" lon="-86.169613"><extensions><gh:distance>13.0</gh:distance><gh:time>11672</gh:time><gh:direction>E</gh:direction><gh:azimuth>81.86</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="39.765307" lon="-86.169462"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:sign>4</gh:sign></extensions></rtept>
+</rte>
+<trk><name>GraphHopper Track</name><trkseg>
+<trkpt lat="39.765914" lon="-86.166856"><ele>217.71</ele><time>2022-10-17T15:27:55Z</time></trkpt>
+<trkpt lat="39.765932" lon="-86.166912"><ele>217.56</ele><time>2022-10-17T15:28:00Z</time></trkpt>
+<trkpt lat="39.765935" lon="-86.167041"><ele>217.27</ele><time>2022-10-17T15:28:10Z</time></trkpt>
+<trkpt lat="39.767427" lon="-86.166976"><ele>218.31</ele><time>2022-10-17T15:28:49Z</time></trkpt>
+<trkpt lat="39.767429" lon="-86.167338"><ele>219.55</ele></trkpt>
+<trkpt lat="39.767451" lon="-86.167722"><ele>220.83</ele><time>2022-10-17T15:29:13Z</time></trkpt>
+<trkpt lat="39.768053" lon="-86.16778"><ele>219.96</ele><time>2022-10-17T15:30:13Z</time></trkpt>
+<trkpt lat="39.768053" lon="-86.16778"><ele>219.96</ele><time>2022-10-17T15:30:13Z</time></trkpt>
+<trkpt lat="39.767451" lon="-86.167722"><ele>220.83</ele><time>2022-10-17T15:31:14Z</time></trkpt>
+<trkpt lat="39.767426" lon="-86.167186"><ele>219.02</ele></trkpt>
+<trkpt lat="39.767436" lon="-86.166776"><ele>218.04</ele></trkpt>
+<trkpt lat="39.767409" lon="-86.165974"><ele>219.13</ele><time>2022-10-17T15:31:53Z</time></trkpt>
+<trkpt lat="39.767359" lon="-86.165802"><ele>219.74</ele></trkpt>
+<trkpt lat="39.767262" lon="-86.162097"><ele>223.21</ele></trkpt>
+<trkpt lat="39.767236" lon="-86.161931"><ele>222.99</ele></trkpt>
+<trkpt lat="39.767237" lon="-86.161842"><ele>222.87</ele></trkpt>
+<trkpt lat="39.767024" lon="-86.161847"><ele>222.57</ele><time>2022-10-17T15:33:52Z</time></trkpt>
+<trkpt lat="39.767028" lon="-86.161986"><ele>223.96</ele><time>2022-10-17T15:34:02Z</time></trkpt>
+<trkpt lat="39.767028" lon="-86.161986"><ele>223.96</ele><time>2022-10-17T15:34:02Z</time></trkpt>
+<trkpt lat="39.767024" lon="-86.161847"><ele>222.57</ele><time>2022-10-17T15:34:13Z</time></trkpt>
+<trkpt lat="39.767237" lon="-86.161842"><ele>222.87</ele></trkpt>
+<trkpt lat="39.767236" lon="-86.161931"><ele>222.99</ele></trkpt>
+<trkpt lat="39.767262" lon="-86.162097"><ele>223.21</ele></trkpt>
+<trkpt lat="39.767359" lon="-86.165802"><ele>219.74</ele></trkpt>
+<trkpt lat="39.767409" lon="-86.165974"><ele>219.13</ele></trkpt>
+<trkpt lat="39.767436" lon="-86.166776"><ele>218.04</ele></trkpt>
+<trkpt lat="39.767429" lon="-86.167338"><ele>219.55</ele></trkpt>
+<trkpt lat="39.767451" lon="-86.167722"><ele>220.83</ele></trkpt>
+<trkpt lat="39.767491" lon="-86.16799"><ele>219.86</ele></trkpt>
+<trkpt lat="39.767426" lon="-86.169044"><ele>217.45</ele></trkpt>
+<trkpt lat="39.767471" lon="-86.169181"><ele>217.21</ele></trkpt>
+<trkpt lat="39.767627" lon="-86.170172"><ele>217.19</ele><time>2022-10-17T15:37:42Z</time></trkpt>
+<trkpt lat="39.767873" lon="-86.171778"><ele>214.3</ele><time>2022-10-17T15:38:29Z</time></trkpt>
+<trkpt lat="39.767974" lon="-86.172445"><ele>213.19</ele><time>2022-10-17T15:38:49Z</time></trkpt>
+<trkpt lat="39.767503" lon="-86.17257"><ele>217.65</ele></trkpt>
+<trkpt lat="39.767544" lon="-86.176337"><ele>212.73</ele><time>2022-10-17T15:41:41Z</time></trkpt>
+<trkpt lat="39.767363" lon="-86.176186"><ele>212.46</ele><time>2022-10-17T15:41:46Z</time></trkpt>
+<trkpt lat="39.767277" lon="-86.176359"><ele>212.04</ele></trkpt>
+<trkpt lat="39.767152" lon="-86.176275"><ele>212.24</ele></trkpt>
+<trkpt lat="39.767099" lon="-86.176412"><ele>211.91</ele></trkpt>
+<trkpt lat="39.767057" lon="-86.176447"><ele>211.77</ele></trkpt>
+<trkpt lat="39.766773" lon="-86.176393"><ele>210.96</ele></trkpt>
+<trkpt lat="39.766721" lon="-86.176412"><ele>210.81</ele></trkpt>
+<trkpt lat="39.766676" lon="-86.176455"><ele>210.66</ele></trkpt>
+<trkpt lat="39.766616" lon="-86.176616"><ele>210.27</ele></trkpt>
+<trkpt lat="39.766596" lon="-86.176732"><ele>210.02</ele></trkpt>
+<trkpt lat="39.766594" lon="-86.176936"><ele>209.58</ele><time>2022-10-17T15:43:51Z</time></trkpt>
+<trkpt lat="39.766625" lon="-86.176936"><ele>209.37</ele><time>2022-10-17T15:43:53Z</time></trkpt>
+<trkpt lat="39.766622" lon="-86.177608"><ele>212.61</ele></trkpt>
+<trkpt lat="39.766594" lon="-86.17767"><ele>212.96</ele><time>2022-10-17T15:45:48Z</time></trkpt>
+<trkpt lat="39.766607" lon="-86.177743"><ele>212.94</ele></trkpt>
+<trkpt lat="39.76669" lon="-86.179981"><ele>212.69</ele><time>2022-10-17T15:48:46Z</time></trkpt>
+<trkpt lat="39.76669" lon="-86.179981"><ele>212.69</ele><time>2022-10-17T15:48:46Z</time></trkpt>
+<trkpt lat="39.766607" lon="-86.177743"><ele>212.94</ele></trkpt>
+<trkpt lat="39.766594" lon="-86.17767"><ele>212.96</ele><time>2022-10-17T15:51:44Z</time></trkpt>
+<trkpt lat="39.766622" lon="-86.177608"><ele>212.61</ele></trkpt>
+<trkpt lat="39.766625" lon="-86.176936"><ele>209.37</ele><time>2022-10-17T15:52:41Z</time></trkpt>
+<trkpt lat="39.766594" lon="-86.176936"><ele>209.58</ele><time>2022-10-17T15:52:48Z</time></trkpt>
+<trkpt lat="39.766596" lon="-86.176732"><ele>210.02</ele></trkpt>
+<trkpt lat="39.766616" lon="-86.176616"><ele>210.27</ele></trkpt>
+<trkpt lat="39.766676" lon="-86.176455"><ele>210.66</ele></trkpt>
+<trkpt lat="39.766721" lon="-86.176412"><ele>210.81</ele></trkpt>
+<trkpt lat="39.766773" lon="-86.176393"><ele>210.96</ele></trkpt>
+<trkpt lat="39.767057" lon="-86.176447"><ele>211.77</ele></trkpt>
+<trkpt lat="39.767099" lon="-86.176412"><ele>211.91</ele></trkpt>
+<trkpt lat="39.767152" lon="-86.176275"><ele>212.24</ele></trkpt>
+<trkpt lat="39.767277" lon="-86.176359"><ele>212.04</ele></trkpt>
+<trkpt lat="39.767363" lon="-86.176186"><ele>212.46</ele><time>2022-10-17T15:55:16Z</time></trkpt>
+<trkpt lat="39.767401" lon="-86.176067"><ele>212.61</ele></trkpt>
+<trkpt lat="39.767365" lon="-86.17289"><ele>220.97</ele><time>2022-10-17T15:56:13Z</time></trkpt>
+<trkpt lat="39.767506" lon="-86.172991"><ele>218.48</ele><time>2022-10-17T15:56:16Z</time></trkpt>
+<trkpt lat="39.767503" lon="-86.17257"><ele>217.65</ele></trkpt>
+<trkpt lat="39.767974" lon="-86.172445"><ele>213.19</ele><time>2022-10-17T15:57:03Z</time></trkpt>
+<trkpt lat="39.767627" lon="-86.170172"><ele>217.19</ele><time>2022-10-17T15:58:36Z</time></trkpt>
+<trkpt lat="39.767471" lon="-86.169181"><ele>217.21</ele><time>2022-10-17T15:59:07Z</time></trkpt>
+<trkpt lat="39.767426" lon="-86.169044"><ele>217.45</ele></trkpt>
+<trkpt lat="39.767491" lon="-86.16799"><ele>219.86</ele></trkpt>
+<trkpt lat="39.767451" lon="-86.167722"><ele>220.83</ele></trkpt>
+<trkpt lat="39.767429" lon="-86.167338"><ele>219.55</ele></trkpt>
+<trkpt lat="39.767436" lon="-86.166776"><ele>218.04</ele></trkpt>
+<trkpt lat="39.767409" lon="-86.165974"><ele>219.13</ele><time>2022-10-17T16:00:32Z</time></trkpt>
+<trkpt lat="39.767359" lon="-86.165802"><ele>219.74</ele></trkpt>
+<trkpt lat="39.767262" lon="-86.162097"><ele>223.21</ele></trkpt>
+<trkpt lat="39.767236" lon="-86.161931"><ele>222.99</ele></trkpt>
+<trkpt lat="39.767236" lon="-86.161744"><ele>223.63</ele><time>2022-10-17T16:02:32Z</time></trkpt>
+<trkpt lat="39.767021" lon="-86.161727"><ele>223.42</ele></trkpt>
+<trkpt lat="39.764266" lon="-86.161813"><ele>222.31</ele><time>2022-10-17T16:03:41Z</time></trkpt>
+<trkpt lat="39.764226" lon="-86.160014"><ele>219.83</ele><time>2022-10-17T16:04:51Z</time></trkpt>
+<trkpt lat="39.764886" lon="-86.15999"><ele>220.79</ele><time>2022-10-17T16:05:09Z</time></trkpt>
+<trkpt lat="39.764886" lon="-86.15999"><ele>220.79</ele><time>2022-10-17T16:05:09Z</time></trkpt>
+<trkpt lat="39.767217" lon="-86.159905"><ele>242.32</ele><time>2022-10-17T16:07:39Z</time></trkpt>
+<trkpt lat="39.767236" lon="-86.161931"><ele>222.99</ele></trkpt>
+<trkpt lat="39.767262" lon="-86.162097"><ele>223.21</ele></trkpt>
+<trkpt lat="39.767359" lon="-86.165802"><ele>219.74</ele></trkpt>
+<trkpt lat="39.767409" lon="-86.165974"><ele>219.13</ele></trkpt>
+<trkpt lat="39.767436" lon="-86.166776"><ele>218.04</ele></trkpt>
+<trkpt lat="39.767429" lon="-86.167338"><ele>219.55</ele></trkpt>
+<trkpt lat="39.767451" lon="-86.167722"><ele>220.83</ele></trkpt>
+<trkpt lat="39.767491" lon="-86.16799"><ele>219.86</ele></trkpt>
+<trkpt lat="39.767426" lon="-86.169044"><ele>217.45</ele></trkpt>
+<trkpt lat="39.767471" lon="-86.169181"><ele>217.21</ele><time>2022-10-17T16:11:11Z</time></trkpt>
+<trkpt lat="39.7674" lon="-86.16938"><ele>216.72</ele></trkpt>
+<trkpt lat="39.767334" lon="-86.169488"><ele>216.41</ele></trkpt>
+<trkpt lat="39.767217" lon="-86.169609"><ele>216.0</ele></trkpt>
+<trkpt lat="39.766235" lon="-86.170393"><ele>215.23</ele></trkpt>
+<trkpt lat="39.766019" lon="-86.170509"><ele>215.35</ele><time>2022-10-17T16:11:53Z</time></trkpt>
+<trkpt lat="39.765958" lon="-86.170312"><ele>215.66</ele></trkpt>
+<trkpt lat="39.7659" lon="-86.170209"><ele>215.86</ele></trkpt>
+<trkpt lat="39.765554" lon="-86.169891"><ele>215.97</ele><time>2022-10-17T16:12:09Z</time></trkpt>
+<trkpt lat="39.765619" lon="-86.169774"><ele>216.49</ele><time>2022-10-17T16:12:12Z</time></trkpt>
+<trkpt lat="39.76553" lon="-86.169726"><ele>216.41</ele></trkpt>
+<trkpt lat="39.765525" lon="-86.169703"><ele>216.4</ele><time>2022-10-17T16:12:24Z</time></trkpt>
+<trkpt lat="39.765459" lon="-86.169725"><ele>216.15</ele><time>2022-10-17T16:12:30Z</time></trkpt>
+<trkpt lat="39.76529" lon="-86.169613"><ele>216.01</ele><time>2022-10-17T16:12:50Z</time></trkpt>
+<trkpt lat="39.765307" lon="-86.169462"><ele>216.0</ele><time>2022-10-17T16:13:01Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
